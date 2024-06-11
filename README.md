@@ -1,4 +1,4 @@
-SIGA OS ITENS ABAIXO PARA REALIZAÇÃO DA ATIVIDADE:
+Descrição da atividade:
 
 Crie um banco de dados para armazenar os dados dos alunos e cursos de uma universidade;
 Cada curso pode pertencer a somente uma área;
