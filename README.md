@@ -1,4 +1,4 @@
-![image](https://github.com/Aceskrr/Universidade/assets/134974864/19bbfe8e-ca43-485c-94c7-2520c75509a4)SIGA OS ITENS ABAIXO PARA REALIZAÇÃO DA ATIVIDADE:
+SIGA OS ITENS ABAIXO PARA REALIZAÇÃO DA ATIVIDADE:
 
 Crie um banco de dados para armazenar os dados dos alunos e cursos de uma universidade;
 Cada curso pode pertencer a somente uma área;
@@ -18,7 +18,7 @@ Crie 25 tipos de cursos de uma universidade.
 ![image](https://github.com/Aceskrr/Universidade/assets/134974864/e62f5dbe-1dbb-461f-8b61-fa700e96de0f)
 ![image](https://github.com/Aceskrr/Universidade/assets/134974864/d6781cbd-d4af-4077-a581-e1c4ecd1a779)
 ![image](https://github.com/Aceskrr/Universidade/assets/134974864/5ed57d47-3d84-44cf-b002-851c44043b6b)
-
+![image](https://github.com/Aceskrr/Universidade/assets/134974864/19bbfe8e-ca43-485c-94c7-2520c75509a4)
 
 
 
