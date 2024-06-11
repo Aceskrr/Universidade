@@ -18,7 +18,11 @@ Crie 25 tipos de cursos de uma universidade.
 ![image](https://github.com/Aceskrr/Universidade/assets/134974864/e62f5dbe-1dbb-461f-8b61-fa700e96de0f)
 ![image](https://github.com/Aceskrr/Universidade/assets/134974864/d6781cbd-d4af-4077-a581-e1c4ecd1a779)
 ![image](https://github.com/Aceskrr/Universidade/assets/134974864/5ed57d47-3d84-44cf-b002-851c44043b6b)
-![image](https://github.com/Aceskrr/Universidade/assets/134974864/19bbfe8e-ca43-485c-94c7-2520c75509a4)
+
+
+Aplicativos Usados: MySQL Workbench
+Aluno: Gabriel de Barros Teixeira
+RA: 235800
 
 
 
